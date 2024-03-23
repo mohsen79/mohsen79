@@ -9,123 +9,28 @@ my linkedin https://www.linkedin.com/in/mohsen-jalali-0b589b1b5/
 
 <br />
 
-**Skills**
+## Skills
 
-<div style="display:flex;gap:1rem">
- <div style="display:flex;flex-direction:column;gap:.3rem;
- justify-content:center;aling-items:center;
- text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/html.png">
-  <p>HTML</p>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:.3rem;
-  justify-content:center;aling-items:center;
-  text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/css.png">
-  <p>CSS</p>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:.3rem;
-  justify-content:center;aling-items:center;
-  text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/js.png">
-  <p>Javascript</p>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:.3rem;
-  justify-content:center;aling-items:center;
-  text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/php.png">
-  <p>PHP</p>
-  </div>
-</div>
+<img src="./assets/html.png" width='80px'/>  |  <img src="./assets/css.png" width='80px'/>  |  <img src="./assets/js.png" width='80px'/> |  <img src="./assets/php.png" width='80px'/>
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+HTML | CSS | Javascript | PHP
+
 <br />
 
-**Frameworks and Libraries**
+## Frameworks and Libraries
 
-<div style="display:flex;gap:1rem">
-<div style="display:flex;flex-direction:column;gap:.3rem;
-justify-content:center;aling-items:center;
-text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/react.png">
-  <p>React</p>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:.3rem;
-  justify-content:center;aling-items:center;
-  text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/next.png">
-  <p>Next</p>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:.3rem;
-  justify-content:center;aling-items:center;
-  text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/laravel.png">
-  <p>Laravel</p>
-  </div>
-</div>
+<img src="./assets/react.png" width='80px'/>  |  <img src="./assets/next.png" width='80px'/>  |  <img src="./assets/laravel.png" width='80px'/>
+:-------------------------:|:-------------------------:|:-------------------------:|
+React | Next | Laravel
+
 <br />
 
-**Experienced with**
+## Experienced with
 
-<div style="display:flex;gap:1rem">
- <div style="display:flex;flex-direction:column;gap:.3rem;
- justify-content:center;aling-items:center;
- text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/jest.png">
-  <p>Jest</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/vitest.png">
-  <p>Vitest</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/socket.png">
-  <p>Socket.io</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/sass.png">
-  <p>Sass</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/bootstrap.png">
-  <p>Bootstrap</p>
-  </div>
-  </div>
-  <div style="display:flex;gap:1rem">
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/qml.png">
-  <p>QML</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/qraphql.png">
-  <p>Graphql</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/bpm.png">
-  <p>BPM</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/mysql.png">
-  <p>MySql</p>
-  </div>
-   <div style="display:flex;flex-direction:column;gap:.3rem;
-   justify-content:center;aling-items:center;
-   text-align:center;font-size:.8rem">
-  <img width="68" src="./assets/redis.png">
-  <p>Redis</p>
-  </div>
-</div>
+<img src="./assets/jest.png" width='80px'/>  |  <img src="./assets/vitest.png" width='80px'/>  |  <img src="./assets/socket.png" width='80px'/> |  <img src="./assets/sass.png" width='80px'/> |  <img src="./assets/bootstrap.png" width='80px'/>
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+Jest | Vitest | socket.io | Sass | Bootstrap
+
+<img src="./assets/qml.png" width='80px'/>  |  <img src="./assets/qraphql.png" width='80px'/>  |  <img src="./assets/bpm.png" width='80px'/> |  <img src="./assets/mysql.png" width='80px'/> |  <img src="./assets/redis.png" width='80px'/>
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+QML | Graphql | BPM | MySql | Redis
